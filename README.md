@@ -33,5 +33,5 @@ quiz/
 ## ⚡ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ayushb10212/quiz_start.git
-   cd quiz_start
+   git clone https://github.com/Ayush10212/quiz_start.git
+    cd quiz_start
